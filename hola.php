@@ -2,6 +2,9 @@
 
 <?php 
     echo "hola";
+$prueba = "xd";
+
+echo "esto es muy ".$prueba;
 ?>
 
 
